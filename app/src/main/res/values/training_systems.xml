@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="training_systems_title">AQUAWALLGYM™ RENDSZEREK</string>
+
+    <string name="training_systems_1">Aquawallgym™ Fitness Functional</string>
+    <string name="training_systems_2">Aquawallgym™ Fitness Cardio</string>
+    <string name="training_systems_3">Aquawallgym™ Rehab</string>
+    <string name="training_systems_4">Aquawallgym™ Sport</string>
+
+    <string name="fitness_functional">Az Aquawallgym Fitness edzésmódszert ajánljuk mindazoknak, akik szeretnének javítani általános erőnlétükön, karcsú és sportosan izmos testre vágynak. A gyakorlatok
+        által robbanékonyak és energikusak leszünk. A dinamizmus mellett nagy jelentőséget kap a mozdulatok pontos és kontrollált kivitelezése, mely következtében a testtartás kontrollja, a
+        koordináció- és az egyensúlyfejlesztés is jelentős szerepet kap.</string>
+
+
+
+    <string name="fitness_cardio_1">Ez a tréningtípus az aerob állóképesség fejlesztést tűzi ki célul. A tüdő kapacitása nő, a szívizomzat funkciója javul, a vér oxigénfelvevő képessége
+        növekszik. Az aerob anyagcsere aktiválásának köszönhetően a gyakorlatok során zsírégetés történik.</string>
+
+    <string name="fitness_cardio_2">Így lehetőség nyílik állóképességünk kontrollált fejlesztésére - ajánlható ezért testsúlycsökkentő programok részeként, szív- és érrendszeri problémák
+        megelőzésére, valamint a közeg jótékony hatásai miatt kismamáknak is.</string>
+
+
+
+    <string name="rehab_1">Sokoldalúságának köszönhetően az Aquawallgym Training System a prevenció mellett a gyógyításban és a rehabilitációban is nagy szerepet kap.</string>
+
+    <string name="rehab_2">Ortopédiai és reumatológiai kórképeknél a víz tehermentesítő hatását annak közegellenállásával kombinálva ideális közegben vagyunk a kíméletes, de sokoldalú
+        terápiához, az elasztikus erőterek alkalmazása pedig gyorsított mozgásprogramot tesz lehetővé. Traumatológiában sérüléseket követően, valamint a műtétek előkészítése és az azt
+        követő rehabilitáció céljából alkalmazzuk; neurológiai kórképeknél biztonságosan fejleszthetőek a sérült képességek, az egyensúly, a koordináció, a járás.</string>
+
+    <string name="rehab_3">A szív- és érrendszeri megbetegedésekben szenvedő betegek mozgásterápiájában az Aquawallgym™ Kardio adaptált változatát alkalmazzuk.</string>
+
+
+
+    <string name="sport_1">Az AWG sportágspecifikus funkcionális tréning célja a sportolók teljesítményének növelése.</string>
+
+    <string name="sport_2">A mozgásprogramot emellett a sérülések rizikójának csökkentése, valamint a sérüléseket követő gyors visszatérés érdekében is használhatjuk. A sportolók állóképessége
+        és általános erőnléte nő, mozgásuk gyorsabbá és robbanékonyabbá válik. Koordinációjuk és egyensúlyuk javul, aminek következtében mozdulataik pontosabbak és hatékonyabbak lesznek.</string>
+
+    <string name="sport_3">Kiemelt jelentősége lehet ezért vízi sportoknál a sportteljesítmény fejlesztésében, pl. úszás, vízilabda, szinkronúszás; a szárazföldi sportoknál pedig mint
+        biztonságos, ugyanakkor rendkívül hatékony kiegészítő mozgásforma alkalmazható.</string>
+
+</resources>

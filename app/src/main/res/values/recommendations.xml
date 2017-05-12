@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="frajmund_1">Sydney és Athén olimpiai bajnoka, világbajnok, Európa-bajnok, világkupa bajnok vízilabdázó</string>
+    <string name="frajmund_2">„Sokévnyi vízilabdában szerezett tapasztalatomra alapozva, minden oktató, vízilabda játékos
+        részére ajánlom az Aquawallgym™ Training System-et, illetve bárki számára ki szereti a mozgást.</string>
+    <string name="frajmund_3">Az Aquawallgym™ egy nagyszerű eszköz a hatékony fizikai felkészülés szempontjából és végtelen
+        edzési lehetőséget ajánl. Próbáld ki és élvezd az újszerű mozgást!”</string>
+
+
+
+    <string name="kgyorgy_1">3x Olimpiai bajnok, 3x Európa-bajnok vízilabdázó és edző</string>
+    <string name="kgyorgy_2">"Sokéves szakmai tapasztalatom alapján az Aquawallgym™-et egyedülálló találmánynak tartom, ajánlom minden edzőnek, vízilabdázónak és sportot szerető embernek."</string>
+
+
+
+    <string name="egabor_1">Főorvos, Ortopéd sebész, Baleseti sebész szakorvos, a Magyar Férfi Kézilabda Válogatott vezető orvosa,
+        a Magyar Olimpiai Csapat tagja a 2004-es Athéni és 2012-es Londoni Nyári Olimpiai Játékokon.</string>
+    <string name="egabor_2">Az Aquawallgym™ nagyszerű találmány, amely lehetővé teszi a mozgáskoordináció, a neuromuscularis
+        proprioceptív rendszer, az izomzat fejlesztését a mozgásszervi betegek konzervatív kezelésében, a műtét utáni
+        rehabilitációban és a sport felkészítésben. A finom koordináció javításával a sportsérülések megelőzésére is alkalmas.</string>
+    <string name="egabor_3">Lehetővé teszi a sportág specifikus mozdulatsorok gyakorlását is, ezért a sport-rehabilitáció fontos eszköze. Használatát
+        mindenkinek ajánlom.</string>
+
+    <string name="lgyorgy_1">Orvos, Sportfizio-Terapeuta, C. Egyetemi Docens, Magyar Olimpikonok Orvosi Menedzselése</string>
+    <string name="lgyorgy_2">„A finomkoordináció kialakításához nélkülözhetetlen, hogy a gyermekek kihintázzák magukat. Ennek továbbfejlesztett
+        vagy felnőttkori változata a mélyvízben végzett erőteljes izommunka, mely nem ad lehetőséget a fixációra, így a mozgás teljes időtartama
+        alatt az egyensúlyozás legmagasabb szintjét követeli meg. Az erő növekedése azonnal beépül a célirányú munkába, az egész szervezet
+        működése gazdaságosabbá válik, miközben a teljesítmény-növekedése felgyorsul.</string>
+    <string name="lgyorgy_3">Sekélyvízben pedig optimális sportág-specifikus tréning valósulhat meg,ami a sport-rehabilitáció fontos
+        láncszeme. Ajánlom továbbá mindazoknak, akiket megérintett a modern civilizáció egészségkultúrája.”</string>
+
+</resources>

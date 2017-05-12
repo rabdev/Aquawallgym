@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_page_title">Az Aquawallgym™ rendszerről</string>
+
+    <string name="about_1">A világon az első mobil vízi kondigép, az Aquawallgym™ hordozható és könnyen felszerelhető
+        (összeszerelése csupán egy percet vesz igénybe), gyakorlatilag bármelyik, 1 méternél mélyebb vizű medencében alkalmazható, kültéren
+        illetve fedett medencéknél egyaránt; súlya mindössze 3 kg.</string>
+
+    <string name="about_2">Használata könnyű és egyszerű. Az Aquawallgym™ fő tartószerkezetén négy különböző mélységben elhelyezkedő keresztrudat
+        találunk.</string>
+
+    <string name="about_3">Ezek végére karabinerek segítségével különböző erősségű gumiköteleket tudunk csatlakoztatni. Ezeket a gumiköteleket kifejezetten
+        vízi használatra fejlesztettünk ki, ezért a hagyományostól eltérő módon klór- és UV-állóak.</string>
+
+    <string name="about_4">Az Aquawallgym™ a gumikötelek és a víz segítségével lehetővé teszi, hogy a felhasználók terhelésmentesen, szabadon
+        mozogjanak a tér bármelyik irányába. A szerkezet sokoldalúságának köszönhetően rendkívül sok mozgáskombináció valósítható meg. A cél
+        minél több izomcsoportot megmozgatni minden egyes gyakorlat során; ugyanakkor csupán a gyakorlat pozíciójának megváltoztatásával más
+        izom, testtáj vagy mozdulat is edzhető.</string>
+
+    <string name="about_5">Az erősségeken belül – a gumikötél hosszától függően – további 3 szintet különböztetünk meg, S, M, L, mely
+        a kötelek hosszúságát jelöli (S - 90 cm, M - 110 cm, L - 120cm).</string>
+
+    <string name="about_6">Az Aquawallgym™ edzés nélkülözhetetlen eszköze az Aquawallgym™-öv. Nehézségi foknak és vízmélységnek
+        megfelelően választhatjuk a fitness-övet, vagy a sport-övet. A gyakorlatok nagyfokú variálhatóságának elősegítése érdekében különböző
+        kiegészítő eszközöket fejlesztettünk ki. A kéz rögzítésekor különböző eszköz áll rendelkezésünkre: fogantyú, csuklópánt stb.. A lábra
+        helyezhetünk bokapántot vagy speciális szandált.</string>
+
+    <string name="about_kotelek_1">5 különböző erősségű gumikötelet használunk:</string>
+
+    <string name="kotelek_1">Aquawallgym™ könnyű / narancssárga</string>
+    <string name="kotelek_2">Aquawallgym™ közepes / zöld</string>
+    <string name="kotelek_3">Aquawallgym™ erős / kék</string>
+    <string name="kotelek_4">Aquawallgym™ extra erős / sárga</string>
+    <string name="kotelek_5">Aquawallgym™ szuper erős / fekete</string>
+</resources>

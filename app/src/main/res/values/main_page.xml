@@ -1,0 +1,35 @@
+<resources>
+    <string name="main_page_title">AZ AQUAWALLGYM™ ESZKÖZRŐL</string>
+
+    <string name="leiras_main1">A víz jótékony hatását és nehezítő tényezőit kombinálva az elasztikus ellenállással,
+        a Peter\'s Aquafitt bemutatja az évtized legújabb vízi sporteszközét: az Aquawallgymet, amely
+        az Aquawallgym™ Training System alapját képezi.</string>
+
+    <string name="leiras_main2">A hagyományos, szárazföldi edzésmódszerekkel szemben a vízben, elasztikus ellenállással
+        végzett Aquawallgym™-gyakorlatokalkalmazásával testünk komplex és rendkívül intenzív módon dolgozhat. A víz,
+        a gumikötelek ellenállása éssaját test tehetetlensége révén az alkalmazó nem csupán egy testrészt dolgoztat meg,
+        hanem a teljes törzsizomzatát igénybevéve az izomerősítés mellett a koordináció, az állóképesség és a gyorsaság
+        fejlesztéséhez is kíváló az eszköz.</string>
+
+    <string name="leiras_main3">Vízben testünk szabadon, könnyedén mozog, az ízületekre, szalagokra, csontokra sokkal
+        kisebb terhelés hat; ugyanakkor kardiovaszkuláris kapacitásunk nő, és a víz viszkozitása segíti a koordinációt
+        és az egyensúlyozást.</string>
+
+    <string name="leiras_main4">A vízben végzett edzés épp ezért igazi kihívás számunkra! A víz közegellenállása próbára teszi
+        erőnket, és minél mélyebben vagyunk, annál nehezebb kontrollálni és koordinálni mozdulatainkat.</string>
+
+    <string name="leiras_main5">Ha nincsen sok időd a testedzésre, de látványos eredményeket szeretnél ízületeid túlterhelése nélkül,
+        akkor az Aquawallgym™ Training Systemmel végzett funkcionális tréning a legjobb választás számodra!</string>
+
+    <string name="leiras_main6">Az Aquawallgym™ Training System bármely izomcsoport edzésére alkalmas: a kezekre, bokákra, vagy derékra
+        rögzített gumikötél segítségével a felhasználók ellenállással szemben, ugyanakkor szabadon és terhelésmentesen mozoghatnak a vízben
+        a tér bármelyik irányában</string>
+
+    <string name="leiras_main7">Az Aquawallgym™-et kortól, nemtől, fizikai kondíciótól függetlenül bárki biztonságosan használhatja. Az
+        elasztikus ellenállás mértéke és iránya tetszésszerűen változtatható, így erőnléti állapotnak és a célzott területnek, funkciónak
+        megfelelően könnyedén adaptálható. A számtalan varációs lehetőségnek köszönhetően sokoldalú és izgalmas edzést biztosíthatunk magunk
+        vagy vendégeink, sportolóink, pácienseink számára.</string>
+
+    <string name="leiras_main8">Az Aquawallgym™ megoldás azok számára, akik egyedi, testalkatuknak megfelelő, mégis teljeskörű edzésre vágynak.</string>
+
+</resources>
